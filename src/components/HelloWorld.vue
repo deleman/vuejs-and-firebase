@@ -65,7 +65,6 @@ button:active{
   border:1px solid cadetblue;
 }
 
-
 .one{
 
   justify-content: space-around;
